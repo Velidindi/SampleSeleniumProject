@@ -1,2 +1,1 @@
-this is my first commit practice.WTF
-
+this is my first commit practice.
